@@ -1,0 +1,12 @@
+name: Cars93
+title: Cars93
+username:
+account: murilo-rodrigues
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3439352
+bundleId: 4051603
+url: https://murilo-rodrigues.shinyapps.io/Cars93/
+when: 1609624118.99561
+asMultiple: FALSE
+asStatic: FALSE
